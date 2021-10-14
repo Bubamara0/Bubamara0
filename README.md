@@ -36,7 +36,7 @@ I'm 27, currently following a course to become a full stack web developer in Bri
 ![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=orange&color=4AB197)
 ![](https://img.shields.io/badge/Inkscape-informational?style=flat&logo=inkscape&logoColor=black&color=4AB197)
 
-## Me contacter
+## Contact
 
 
 [![](https://img.shields.io/badge/Email-informational?style=flat&logo=gmail&logoColor=yellow&color=red)](mailto:timothee.j@institutsolacroup.com?)
